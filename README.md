@@ -17,3 +17,15 @@ AES key is sent together with the encrypted message obtained from 2).
 
 5.) The receiver is be able to successfully authenticate, decrypt the message, and read
 the original message.
+
+# How To Run:
+Inside the terminal run:
+
+1)pip install pycryptodome
+
+2)python sender.py
+
+3)python receiver.py
+
+
+
